@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">QR Code Scanner Test</string>
+
+    <!--  App permissions  -->
+    <string name="permission_grated">Permission grated</string>
+    <string name="permissions_denied">Permissions denied</string>
+    <string name="permission_denied_forever_title">Unable to use QR Code scanner. Go to Settings > Permissions, then allow the camera permissions, and try again.</string>
+    <string name="button_open_settings">Open Settings</string>
+    <string name="button_cancel">Cancel</string>
+    <string name="permission_denied_forever">Permission denied forever</string>
+    <string name="camera_permission_denied">Camera permission denied</string>
+
 </resources>
